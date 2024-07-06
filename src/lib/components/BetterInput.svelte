@@ -74,7 +74,7 @@
   
   <div class="w-full">
     <div
-      class="input-wrapper w-full flex rounded-token border-token {error ? 'border-error-400-500-token' : (focused ? 'border-secondary-500' : 'border-surface-300-600-token dark:border-surface-500-400-token')}"
+      class="input-wrapper w-full flex rounded-token !border rounded-lg {error ? 'border-error-400-500-token' : (focused ? 'border-secondary-500' : 'border-surface-300-600-token dark:border-surface-500-400-token')}"
     >
       <input
         class="input py-2.5"
