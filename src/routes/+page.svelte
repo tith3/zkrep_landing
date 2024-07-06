@@ -41,7 +41,7 @@
 
 </script>
 
-<div class="size-full bg-gradient-to-br variant-gradient-primary-secondary flex justify-center items-center py-2 px-4 sm:py-10 sm:px-16 md:px-28 ">
+<div class="!overflow-auto size-full bg-gradient-to-br variant-gradient-primary-secondary flex justify-center items-center py-2 px-4 sm:py-10 sm:px-16 md:px-28 ">
 	<div class="!overflow-auto card grow h-full rounded-lg flex flex-col py-12 sm:py-16 px-10 sm:px-20 sm:gap-4 gap-6 items-center sm:items-start">
 		<div class="flex flex-row gap-2 w-full items-start">
 			<img src="/images/zkrep.jpg" class="sm:size-20 size-14 rounded-full"/>
