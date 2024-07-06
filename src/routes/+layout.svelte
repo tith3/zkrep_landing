@@ -11,7 +11,7 @@
 	initializeStores();
 </script>
 
-<Modal buttonTextCancel="Redirect me!"/>
+<Modal buttonTextCancel="Redirect Me!"/>
 <!-- Page Route Content -->
 <slot />
 
