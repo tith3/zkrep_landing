@@ -26,7 +26,7 @@
 			const modal:ModalSettings = {
 				type: "alert",
 				title: 'Uh Oh!',
-				body: 'This is just a demo page, the real zkReputation pre-launch page is https://zkrep.xyz/. You will be redirected after pressing \"Redirect Me!\"".',
+				body: 'This is just a demo page, the real zkReputation pre-launch page is https://zkrep.xyz/. You will be redirected after pressing \"Redirect Me!\".',
 				response: (r: boolean) => {
 					resolve(r);
 				}
